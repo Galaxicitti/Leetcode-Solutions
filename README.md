@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Trie
 |  |
 | ------- |
