@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 ## String
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Trie
 |  |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
