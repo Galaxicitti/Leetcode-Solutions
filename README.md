@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0792-binary-search](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Stack
 |  |
 | ------- |
