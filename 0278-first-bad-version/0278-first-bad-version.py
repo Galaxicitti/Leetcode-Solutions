@@ -7,7 +7,6 @@ class Solution:
         while L < R:
             M = (L + R) // 2
             if (isBadVersion(M)):
-
                 R = M
             else:
                 L = M + 1
