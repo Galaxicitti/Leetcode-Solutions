@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Trie
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
