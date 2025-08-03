@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0733-flood-fill](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
