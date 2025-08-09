@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0733-flood-fill](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -137,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search Tree
 |  |
