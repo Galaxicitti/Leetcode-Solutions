@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Galaxicitti/Leetcode-Solutions/tree/master/0733-flood-fill) |
 ## Interactive
 |  |
